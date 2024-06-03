@@ -1,4 +1,4 @@
-package com.skcodify.productservice;
+package com.skcodify;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
